@@ -33,6 +33,7 @@
 - **Temperature and Humidity**: Higher temperatures generally increase bike rentals, while high humidity can reduce demand.
 - **Working Hours**: Bike usage is higher during working hours, suggesting that commuting plays a major role in demand.
 - **Yearly Trends**: Demand for bike-sharing services is increasing year over year, as indicated by the 'yr' variable, making it a valuable predictor.
+- cnt=0.1484+0.2342×year−0.0547×holiday+0.0474×workingday+0.4789×temp−0.1492×windspeed+0.0894×sep+0.0585×sat−0.2904×Light_snowrain−0.0809×Misty−0.0543×spring+0.0625×summer+0.0968×winter
 
 ## Acknowledgements
 I would like to express my sincere gratitude to the online learning platform and resources that greatly facilitated the analysis and project development. Their tools and data resources were invaluable in completing this study.
